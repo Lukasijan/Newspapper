@@ -1,0 +1,73 @@
+body {
+  background-color: #fafaeb;
+}
+hr {
+  width: 100%;
+  padding: 0;
+  margin: 1;
+  line-height: 0.9;
+}
+h2{
+  font-size: 40px;
+  padding: 0;
+  margin: 0;
+  line-height: 0.9;
+}
+h1 {
+  color: black;
+  font-size: 50px;
+  display: block;
+  padding: 0;
+  margin: 0;
+  line-height: 0.9;
+}
+h4 {
+  padding: 0;
+  margin: 0;
+  line-height: 0.9;
+}
+h5 {
+  padding: 0;
+  margin: 0;
+  line-height: 0.9;
+}
+img{
+  border: 2px solid black;
+  border-radius: 25%;
+  width: 100%;
+
+  margin-left: 0;
+  margin-right: auto;
+}
+.tab1{
+  height: 235px;
+  width: 450px;
+  position: relative;
+  bottom: 603px;
+  left: 1070px;
+}
+.tab2{
+  height: 60px;
+  width: 450px;
+  position: relative;
+  bottom: 600px;
+  left: 1070px;
+}
+.img1{
+  height: 600px;
+  width: 1045px;
+  position: relative;
+  resize: 90% both;
+
+}
+.img2{
+  height: 263px;
+  width: 450px;
+  position: relative;
+  bottom: 595px;
+  left: 1070px;
+}
+.hrlast{
+  position: relative;
+  bottom: 585px
+}
