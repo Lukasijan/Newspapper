@@ -42,32 +42,31 @@ img{
 .tab1{
   height: 235px;
   width: 450px;
-  position: relative;
-  bottom: 603px;
+  position: absolute;
+  bottom: 395px;
   left: 1070px;
 }
 .tab2{
   height: 60px;
   width: 450px;
-  position: relative;
-  bottom: 600px;
+  position: absolute;
+  bottom: 50px;
   left: 1070px;
 }
 .img1{
   height: 600px;
   width: 1045px;
-  position: relative;
-  resize: 90% both;
+  position: absolute;
 
 }
 .img2{
   height: 263px;
   width: 450px;
-  position: relative;
-  bottom: 595px;
+  position: absolute;
+  bottom: 110px;
   left: 1070px;
 }
 .hrlast{
-  position: relative;
-  bottom: 585px
+  position: absolute;
+  top: 743px;
 }
